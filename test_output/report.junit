@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='IMC_CalculatorTests.xctest' tests='3' failures='0'>
+  <testsuite name='IMC_CalculatorTests.IMC_CalculatorTests' tests='3' failures='0'>
+    <testcase classname='IMC_CalculatorTests.IMC_CalculatorTests' name='testFailure_With_Divide_Input_1_And_0_Should_Be_0' time='0.008'/>
+    <testcase classname='IMC_CalculatorTests.IMC_CalculatorTests' name='testSucess_With_Divide_Input_1_And_1_Should_Be_1' time='0.001'/>
+    <testcase classname='IMC_CalculatorTests.IMC_CalculatorTests' name='testSucess_With_Plus_Input_1_And_1_Should_Be_2' time='0.001'/>
+  </testsuite>
+</testsuites>
